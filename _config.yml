@@ -1,0 +1,23 @@
+name: Clay Curtin
+favicon: null
+layout_spectrum: 0.4854702635202557
+typography_spectrum: 0.38725545769557357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.11033873655833304
+  lightness: 0.8650159244425595
+  saturation: 0.4564802017994225
+  rhythmicContrast: 0.10057044518180192
+purpose: []
