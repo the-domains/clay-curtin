@@ -17,20 +17,20 @@ keywords:
   - laurel
   - renovation
 description: ''
-datePublished: '2015-11-16T08:13:03.110Z'
-dateModified: '2015-11-16T08:12:51.047Z'
+datePublished: '2015-11-16T08:22:55.160Z'
+dateModified: '2015-11-16T08:22:51.477Z'
 author: []
 related: []
 app_links: []
 title: 'City of Menlo Park - Official Website | Official Website'
+sourcePath: _posts/2015-11-16-city-of-menlo-park-official-website-or-official-website.md
+published: true
 authors: []
 publisher:
   name: Menlopark
   domain: menlopark.org
   url: 'http://menlopark.org'
   favicon: 'http://menlopark.org/images/favicon.ico'
-sourcePath: _posts/2015-11-16-city-of-menlo-park-official-website-or-official-website.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
