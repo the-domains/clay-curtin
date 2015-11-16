@@ -1,23 +1,18 @@
-name: Clay Curtin
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.38725545769557357
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.8650159244425595
-  saturation: 0.4564802017994225
-  rhythmicContrast: 0.10057044518180192
+  brandColors:
+    - '#A8B0D0'
+    - '#284870'
+    - '#706880'
+    - '#1870C0'
+    - '#F8B058'
+  brandStrength: 1
+  lightness: 0.512387
+  rhythmicContrast: 0.519144
+  saturation: 0.507882
+cta: {}
+layout_spectrum: 0.5
+name: Clay Curtin
+opengraph: {}
 purpose: []
+typography_spectrum: 0.38725545769557357
