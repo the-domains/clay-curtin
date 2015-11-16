@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://menlopark.org/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - laurel
   - renovation
 description: ''
-datePublished: '2015-11-16T08:22:55.160Z'
-dateModified: '2015-11-16T08:22:51.477Z'
+datePublished: '2015-11-16T08:25:40.221Z'
+dateModified: '2015-11-16T08:25:35.241Z'
 author: []
 related: []
 app_links: []
@@ -31,8 +30,9 @@ publisher:
   domain: menlopark.org
   url: 'http://menlopark.org'
   favicon: 'http://menlopark.org/images/favicon.ico'
+url: city-of-menlo-park-official-website-or-official-website/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>City of Menlo Park - Official Website</h1><img src="http://menlopark.org/ImageRepository/Path?filePath=%2fdocuments%5cIntranet%5c18%2ffall-vibrant+community_201501301403454730.jpg" /></article>
+<article style=""><h1>City of Menlo Park</h1><img src="http://menlopark.org/ImageRepository/Path?filePath=%2fdocuments%5cIntranet%5c18%2ffall-vibrant+community_201501301403454730.jpg" /></article>
