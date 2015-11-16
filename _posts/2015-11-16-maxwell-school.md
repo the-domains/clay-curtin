@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.maxwell.syr.edu/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-16T08:22:26.449Z'
-dateModified: '2015-11-16T08:22:17.802Z'
+datePublished: '2015-11-16T15:36:45.799Z'
+dateModified: '2015-11-16T08:24:59.894Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: www.maxwell.syr.edu
   url: 'https://www.maxwell.syr.edu'
   favicon: 'https://www.maxwell.syr.edu/img/favicon.ico'
+url: maxwell-school/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
